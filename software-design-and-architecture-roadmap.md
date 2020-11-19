@@ -4,7 +4,7 @@
 
 > How to learn software design and architecture
 
-Below you'll find a big map for junior, self-taught and intermediate developers to learn more about software design and architecture. 
+Below you'll find a big map for junior, self-taught and intermediate developers to learn more about software design and architecture.
 
 As a JavaScript turned strictly TypeScript developer, I realized that software design was a huge topic and I felt that I wasn't getting the most out of my object-oriented TypeScript.
 
@@ -31,3 +31,8 @@ If you have an idea to improve the map, feel free to discuss it in the issues.
 - Discuss ideas in issues
 - Spread the word
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/stemmlerjs.svg?style=social&label=Follow%20stemmlerjs)](https://twitter.com/stemmlerjs)
+
+## Reference
+
+- https://github.com/stemmlerjs/software-design-and-architecture-roadmap
+- https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
